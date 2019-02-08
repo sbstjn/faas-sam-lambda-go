@@ -1,5 +1,4 @@
 PROJECT_SCOPE ?= faas
-PROJECT_NAME ?= sam-lambda-go
 ENV ?= stable
 PROJECT_ID ?= $(PROJECT_SCOPE)-$(PROJECT_NAME)-$(ENV)
 

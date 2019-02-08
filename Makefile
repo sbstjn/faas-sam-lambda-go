@@ -1,3 +1,5 @@
+PROJECT_NAME = sam-lambda-go
+
 include .faas
 
 test:
