@@ -11,7 +11,6 @@
 
 ```bash
 # Deploy AWS Lambda function
-
 $ > make configure build package deploy
 ```
 
@@ -19,6 +18,5 @@ $ > make configure build package deploy
 
 ```bash
 # Run pytest
-
 $ > make test
 ```

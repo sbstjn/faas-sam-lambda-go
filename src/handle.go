@@ -18,5 +18,5 @@ func handle(ctx context.Context, e event) (string, error) {
 		return "", errors.New("Failed on purpose")
 	}
 
-	return "Success", nil
+	return "Done", nil
 }

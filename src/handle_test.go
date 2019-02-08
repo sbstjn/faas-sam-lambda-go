@@ -12,7 +12,7 @@ func TestHandle(t *testing.T) {
 		t.Error("Unexpected error")
 	}
 
-	if res != "Success" {
+	if res != "Done" {
 		t.Error("Unexpected response")
 	}
 }
